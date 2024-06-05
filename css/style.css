@@ -415,3 +415,13 @@ h6,
 .copyright a:hover {
     color: var(--light);
 }
+
+.wp_icon  {
+    /* height: 100px;
+    width: 100px; */
+    background-color: rgb(255, 255, 255);
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    border-radius: 50%;
+}
